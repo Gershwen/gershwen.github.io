@@ -41,6 +41,20 @@ blockquote, q {
 	quotes: none;
 }
 
+.gershwenImg{
+	margin-top: 0.7em;
+}
+
+.skills-container{
+width: 100%;
+text-align: center;
+}
+
+.skills-container > ul > li{
+	list-style: none;
+}
+
+
 	blockquote:before, blockquote:after, q:before, q:after {
 		content: '';
 		content: none;
